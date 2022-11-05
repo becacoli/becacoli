@@ -13,8 +13,8 @@
 </div>
 
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-I like cats, logic, pokemon and music too, you will always see me with a earphone in. 
-I love connecting with different people so if you want to say <b>hi</b>, I'll be happy to meet you more! :)
+<p><em>I like cats, logic, pokemon and music too, you will always see me with a earphone in. 
+I love connecting with different people so if you want to say <b>hi</b>, I'll be happy to meet you more! :)</em></p>
 
 <div> 
  <a href="https://steamcommunity.com/id/becacoli/" target="_blank"><img src="https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white" target="_blank"></a> 
