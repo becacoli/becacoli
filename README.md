@@ -1,7 +1,7 @@
 
 <h2> Hi, I'm Rebeca Coli! <img src="https://media.giphy.com/media/mGcNjsfWAjY5AEZNw6/giphy.gif" width="50"></h2>
 
-<p><em>I'm currently studying Computer Science at the Federal University of Alagoas (UFAL) and love to know new technologies. I'm currently interested in machine learning and natural language processing. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
+<p><em>I'm currently studying Computer Science at the Federal University of Alagoas (UFAL) and love to know new technologies. I'm currently interested in machine learning and natural language processing. Furthermore, I'm studying web development and React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
 
 
