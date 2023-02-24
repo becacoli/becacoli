@@ -4,16 +4,8 @@
 <p><em>I'm currently studying Computer Science at the Federal University of Alagoas (UFAL) and love to know new technologies. I'm currently interested in machine learning and natural language processing. Furthermore, I'm studying web development and React. <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="35"> 
 </em></p>
 
-
-
-<div align="center">
-  <a href="https://github.com/becacoli">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=becacoli&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=becacoli&layout=compact&langs_count=7&theme=dracula"/>
-</div>
-
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me...  
-<p><em>I like cats, logic, pokemon and music too, you will always see me with a earphone in. 
+<p><em>I like cats, logic,discrete math, pokemon and music too, you will always see me with a earphone in. 
 I love connecting with different people so if you want to say <b>hi</b>, I'll be happy to meet you more! :)</em></p>
 
 <div> 
